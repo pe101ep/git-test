@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn Git and Github
           </a>
+          <p>Hello World</p>
         </header>
       </div>
     );
